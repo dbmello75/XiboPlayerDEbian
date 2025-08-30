@@ -1,0 +1,1 @@
+/root/install_files/rmmagent-linux.sh install 'https://mesh.example.com/meshagents?id=tviGJ&installflags=0&meshinstall=6' 'https://api.example.com' 1 2 '894adfbf53ff8b' server

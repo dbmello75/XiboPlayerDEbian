@@ -1,0 +1,15 @@
+autorun.inf
+preseed.cfg
+favicon.ico
+boot\grub\grub.cfg
+isolinux\splash.png
+files\autostart
+files\cmsSettings.xml
+files\playerSettings.xml
+files\hitech.sh
+files\id_rsa
+files\post-install.sh
+files\start_terminal.sh
+files\orientation.sh
+files\wifi-connect.sh
+files\xibo-backup.sh
